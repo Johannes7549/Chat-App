@@ -4,7 +4,14 @@ A new Flutter project.
 
 ## Getting Started
 
-This flutter app allows users to chat efficiently
+## Features
+
+- **Real-Time Chat:** Experience instant messaging with real-time updates.
+- **User Authentication:** Securely log in and authenticate users to protect their privacy.
+- **Media Sharing:** Share images and media files effortlessly.
+- **Notification Alerts:** Stay informed with push notifications for new messages.
+- **Customizable Settings:** Personalize your chat experience with customizable settings.
+
 
 A few resources to get you started if this is your first Flutter project:
 
